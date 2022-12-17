@@ -136,52 +136,52 @@ a:hover{
 @media screen and (max-width: 768px){
 	body{
 	/*background-image:url(https://img-9gag-fun.9cache.com/photo/arV70Wd_700bwp.webp);*/
-    background: rgb(24,43,43);
-    background: linear-gradient(180deg, rgba(24,43,43,1) 0%, rgba(49,85,16,1) 50%, rgba(76,156,38,1) 100%);
+    	background: rgb(24,43,43);
+    	background: linear-gradient(180deg, rgba(24,43,43,1) 0%, rgba(49,85,16,1) 50%, rgba(76,156,38,1) 100%);
 	background-size:cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	}
 
-    h1{
+    	h1{
         color: #182B2B;
-    }
+    	}
 
-    .label-float input{
+    	.label-float input{
         border-bottom: 2px solid #182B2B;
-    }
+    	}
 
-    .label-float label{
+    	.label-float label{
         color: #315510;
-    }
+    	}
 
-    .label-float input:focus{
+    	.label-float input:focus{
         border-bottom: 2px solid #4C9C26;
-    }
+    	}
 
-    .label-float input:focus + label{
+    	.label-float input:focus + label{
         font-size:13px;
         margin-top: 0;
         color: #4C9C26;
-    }
+    	}
 
-    button{
+   	button{
         border-color: #182B2B;
         color: #182B2B;
-    }
+    	}
 
-    button:hover{
+    	button:hover{
         background-color: #182B2B;
         color: #fff;
-    }
+    	}
 
-    p, a:hover{
+    	p, a:hover{
         color: #315510;
-    }
+	}
 
-    a{
+    	a{
         color:#B85B73;
-    }
+    	}
 		
 	::placeholder{
 		color: #315510;
